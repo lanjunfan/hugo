@@ -1,0 +1,2 @@
+# hugo
+learn hugo git
